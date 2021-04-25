@@ -1,3 +1,3 @@
 ### Default dance sounds
 
-![](default-dance.gif)
+![](shaggy.gif)
