@@ -1,3 +1,2 @@
 ### Default dance sounds
-
-![](shaggy.gif)
+![](goose.gif)
